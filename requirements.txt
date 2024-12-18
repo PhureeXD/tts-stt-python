@@ -1,0 +1,5 @@
+wheel
+pyttsx3
+gTTS
+SpeechRecognition
+pyaudio
